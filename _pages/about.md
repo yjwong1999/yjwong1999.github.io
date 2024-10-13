@@ -247,7 +247,7 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 - IEEE Access
 
 # 💬 Invited Talks
-- 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)
+- 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 # 💬 Contests
 - 🥇 Won the IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
