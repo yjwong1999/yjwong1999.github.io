@@ -24,6 +24,7 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
+- **[2024.05]** Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge
 
 # 🧑‍🎓 Professional Experience
 - *2023.07 - Now*, Freelance AI Engineer, MIMOS Bhd
@@ -61,8 +62,9 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 # 💬 Contests
-- 🥇 Won the IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
-- 🌟 Top 10 Global Semi-Finalist in 2024 EY Open Data Science Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+- 🥇 Chamopion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
+- 🌟 Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+- 🌟 Global Finalist of 2022 Rohde & Schwarz Engineering Competition 👉 [[challenge_link](https://codalab.lisn.upsaclay.fr/competitions/4142#learn_the_details)] & [[project_link](https://news.utar.edu.my/awards/2022/May/23/01/01.html#:~:text=Lee%20Kong%20Chian%20Faculty%20of%20Engineering%20%26%20Science,on%2024%20and%2025%20May%202022%20via%20online.)]
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54ythaxgje5&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
