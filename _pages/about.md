@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/).
+Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) in biomedical engineering from the Universiti Tunku Abdul Rahman, Sungai Long, Malaysia, in 2022, where he is currently pursuing the Ph.D. degree in digital technology with specialization of reinforcement learning and federated learning. His research interests include deep learning/deep reinforcement learning in the field of computer vision, federated learning, Internet of Things (IoT) and wireless communications. As a graduate research assistant, he participated in two international projects (ASEAN IVO and British Council), and a local industry grant. He also conducted a 3-month research stay at Université Sorbonne Paris Nord, supported by the 2023 Doctoral Research Mobility Grant from the Embassy of France to Malaysia. He was also awarded best paper presentation in IEEE UEMCON 2021 Session 13, New York, USA. He was also one of the Top 10 Global Semi-Finalists of the 2024 EY Open Data Science Challenge, and the Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge.
 
 # 🔍Research Topics
 
