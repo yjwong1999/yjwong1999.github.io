@@ -251,7 +251,7 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 
 # 💬 Contests
 - 🥇 Won the IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
-- 🌟 Top 10 Global Semi-Finalist in 2024 EY Open Data Science Challenge 👉 [[challenge link](https://news.utar.edu.my/awards/2024/May/17/01/01.html)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+- 🌟 Top 10 Global Semi-Finalist in 2024 EY Open Data Science Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54ythaxgje5&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
