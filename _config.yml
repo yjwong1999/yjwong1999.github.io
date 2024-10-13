@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi-Jie WONG"
-description              : #"Ph.D Students & Applied AI Engineer"
+description              : "Ph.D Students & Applied AI Engineer"
 repository               : "yjwong1999/yjwong1999.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi-Jie Wong"
   avatar           : "images/Yi Jie WONG.jpg" #"images/android-chrome-512x512.png"
-  bio              : "A Ph.D student which enjoys Applied and Practical AI"
+  bio              : "UTAR/USPN"
   location         : "Malaysia"
   employer         : 
   pubmed           : 
