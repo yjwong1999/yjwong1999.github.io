@@ -44,8 +44,8 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 
 # 📖 Educations
-- *2022.07 - Now*, Ph.D in Digital Technology, Universiti Tunku Abdul Rahman
-- *2023.10 - 2023.12*, Visiting Ph.D Students, Universite Sorbonne Paris Nord
+- *2022.07 - Now*, Ph.D in Digital Technology, Universiti Tunku Abdul Rahman, Supervised by Ir. Ts. Dr. Mau-Luen Tham & Dr. Ban-Hoe Kwan
+- *2023.10 - 2023.12*, Visiting Ph.D Students, Universite Sorbonne Paris Nord, Supervised by Prof. Anissa Mokraoui
 - *2018.05 - 2022.05*, BEng in Biomedical Engineering (Major in AI), Universiti Tunku Abdul Rahman, CGPA 3.76/4.00 (First Class Honours, Awarded Book Prize)
 - *2017.05 - 2018.04*, Foundation in Science, Universiti Tunku Abdul Rahman, CGPA 4.00/4.00 (Top 1 in Kampar Campus)
 
