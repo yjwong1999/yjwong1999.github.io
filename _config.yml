@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi-Jie WONG"
-description              : "Ph.D Students & Applied AI Engineer"
+description              : #"Ph.D Students & Applied AI Engineer"
 repository               : "yjwong1999/yjwong1999.github.io"
 google_scholar_stats_use_cdn : true
 
