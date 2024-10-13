@@ -23,25 +23,14 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 
 # 🔥 News
+- **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
 
-- **[2024.09]** One paper is accepted by **NeurlPS oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
-- **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!
-- **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!
-- **[2024.03]** One paper is accepted by **TGRS** ([SwiMDiff](https://arxiv.org/abs/2401.05093))!
-- **[2023.12]** One paper is accepted by **AAAI** ([MDFL](https://arxiv.org/abs/2311.09520))!
-- **[2023.10]** One paper is accepted by **ACM** ([HyBNN](https://dl.acm.org/doi/abs/10.1145/3631610))!
-- **[2023.12]** Win National Scholarship for PhD Student! 博士国家奖学金
-- **[2023.08]** One paper is accepted by **RS** ([IABC](https://www.mdpi.com/2072-4292/15/17/4255))!
-- **[2023.07]** One paper is accepted by **TGRS** ([GHOST](https://ieeexplore.ieee.org/abstract/document/10175627))!
-- **[2023.07]** One paper is accepted by **FPGA Poster** !
-- **[2023.03]** One paper is accepted by **TGRS** ([SuperYOLO](https://ieeexplore.ieee.org/abstract/document/10075555))!
-- **[2023.03]** One paper is accepted by **TGRS** ([SSAD](https://ieeexplore.ieee.org/abstract/document/10081072))!
-- **[2021.10]** Win National Scholarship for Master Student! 硕士国家奖学金
-- **[2021.05]** One paper is accepted by **NN** ([SSL](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!
-- **[2021.05]** Win the first prize of the second "Tianzhi Cup" Artificial Intelligence Challenge!
-- **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!
-
-
+# 🧑‍🎓 Professional Experience
+- *2023.07 - Now*, Freelance AI Engineer, MIMOS Bhd
+- *2022.07 - Now*, Graduate Research Assistant, Universiti Tunku Abdul Rahman
+- *2023.10 - 2023.12*, Research Attachment, Universite Sorbonne Paris Nord
+- *2022.10 - 2023.09*, Research Member, UK-ASEAN SYRACUSE Project
+- *2021.07 - 2022.12*, Research Member, ASEAN-IVO Project
 
 # 📖 Educations
 - *2022.07 - Now*, Ph.D in Digital Technology, Universiti Tunku Abdul Rahman, Supervised by Ir. Ts. Dr. Mau-Luen Tham & Dr. Ban-Hoe Kwan
