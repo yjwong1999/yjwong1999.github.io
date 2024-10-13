@@ -16,6 +16,7 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 # 🔍Research Topics
 
+- **Applied AI**: Applying AI
 - **Remote Sensing Image Interpretation**: Hyperspectral/Multimodal Remote Sensing, etc
 - **Computer Vision**: Object Detection/Fusion/Super-Resolution/Transformer, etc.
 - **Deep Learning**: Vison-Language Models, Foundation Models, etc.
