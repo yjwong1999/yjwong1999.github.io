@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi-Jie Wong"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Yi Jie WONG.jpg" #"images/android-chrome-512x512.png"
   bio              : "A Ph.D student which enjoys Applied and Practical AI"
   location         : "Malaysia"
   employer         : 
