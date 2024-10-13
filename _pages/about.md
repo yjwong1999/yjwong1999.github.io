@@ -11,11 +11,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-
 Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) in biomedical engineering from the Universiti Tunku Abdul Rahman, Sungai Long, Malaysia, in 2022, where he is currently pursuing the Ph.D. degree in digital technology with specialization of reinforcement learning and federated learning. His research interests include deep learning/deep reinforcement learning in the field of computer vision, federated learning, Internet of Things (IoT) and wireless communications. As a graduate research assistant, he participated in two international projects (ASEAN IVO and British Council), and a local industry grant. He also conducted a 3-month research stay at Université Sorbonne Paris Nord, supported by the 2023 Doctoral Research Mobility Grant from the Embassy of France to Malaysia. He was also awarded best paper presentation in IEEE UEMCON 2021 Session 13, New York, USA. He was also one of the Top 10 Global Semi-Finalists of the 2024 EY Open Data Science Challenge, and the Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge.
 
-# 🔍Research Topics
 
+# 🔍Research Topics
 - **Applied AI**: Applying AI
 - **Remote Sensing Image Interpretation**: Hyperspectral/Multimodal Remote Sensing, etc
 - **Computer Vision**: Object Detection/Fusion/Super-Resolution/Transformer, etc.
@@ -25,7 +24,9 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
 - **[2024.05]** Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge
+- **[2023.10]** Started my 3-month Research Attachment in Universite Sorbonne Paris Nord
 - **[2021.12]** Awarded Best Paper Presentation for IEEE UEMCON 2021 Session 13
+
 
 # 🧑‍🎓 Professional Experience
 - *2023.07 - Now*, Freelance AI Engineer, MIMOS Bhd
@@ -45,6 +46,7 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 # 📝 Publications 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=rrm_FRQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+
 # 🎖 Honors and Awards
 - 2023, Doctoral Research Mobility Grant, Campus France
 - 2022, Research Scholarship Scheme, Universiti Tunku Abdul Rahman & Greatech Sdn. Bhd
@@ -54,14 +56,17 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 - 2018, UTAR Education Fund 100% Scholarship for Bachelor Degree Students, Universiti Tunku Abdul Rahman
 - 2017, Best Paper Presentation, IEEE UEMCON 2021
 
+
 # 💻 Reviewer
 - Elsevier Internet of Things
 - Elsevier Neurocomputing
 - IEEE Transactions on Artificial Intelligence (TAI)
 - IEEE Access
 
+
 # 💬 Invited Talks
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
+
 
 # 💬 Contests
 - 🥇 Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
