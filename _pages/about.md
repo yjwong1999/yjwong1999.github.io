@@ -231,14 +231,12 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 </div>
 
 # 🎖 Honors and Awards
-- 2023, National Scholarship for Postgraduate Student, Ministry of Education \| 研究生国家奖学金
-- 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
-- 2022, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
-- 2021, National Scholarship for Postgraduate Student, Ministry of Education \| 研究生国家奖学金
-- 2020, Outstanding Graduate Student, Xidian University \| 西安电子科技大学优秀研究生
-- 2020, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
-- 2019, Outstanding Graduate Student, Xidian University \| 西安电子科技大学优秀研究生
-- 2019, First Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学一等学业奖学金
+- 2023, Doctoral Research Mobility Grant, Campus France
+- 2022, Research Scholarship Scheme, Universiti Tunku Abdul Rahman & Greatech Sdn. Bhd
+- 2022, UTAR Education Fund 100% Scholarship for PhD Students, Universiti Tunku Abdul Rahman
+- 2022, Book Prize, Universiti Tunku Abdul Rahman
+- 2022, First Class Honours Degree, Universiti Tunku Abdul Rahman
+- 2018, UTAR Education Fund 100% Scholarship for Bachelor Degree Students, Universiti Tunku Abdul Rahman
 
 # 💻 Reviewer
 - Elsevier Internet of Things
