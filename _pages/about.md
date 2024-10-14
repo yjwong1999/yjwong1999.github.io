@@ -27,6 +27,7 @@ I am excited about the practical application of AI techniques and models to solv
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
 - **[2024.10]** Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge
+- **[2024.06]** Our work is accepted by Elsevier Internet of Things Journal (Rank 23/119 in Telecommunications category)
 - **[2024.05]** Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge
 - **[2023.12]** Our Asean IVO Project is awarded Certificate of Excellence (Top 1 out of 17 international projects)
 - **[2023.11]** Completed my first Research Consultancy on 3D Point Cloud Detection for Semiconductor Defects at MIMOS Bhd
