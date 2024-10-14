@@ -24,7 +24,7 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
 - **[2024.05]** Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge
-- **[2023.12]** Our Asean IVO Project is awarded Certificate of Excellence
+- **[2023.12]** Our Asean IVO Project is awarded Certificate of Excellence (Top 1 out of 17 international projects)
 - **[2023.11]** Completed my first Research Consultancy on 3D Point Cloud Detection for Semiconductor Defects at MIMOS Bhd
 - **[2023.10]** Started my 3-month Research Attachment in Universite Sorbonne Paris Nord
 - **[2023.07]** Presented as Invited Speaker at London South Bank University
@@ -52,6 +52,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 
 
 # 🎖 Honors and Awards
+- 2023, Certificate of Excellence (Top 1 out of 17 international projects), ASEAN IVO
 - 2023, Doctoral Research Mobility Grant, Campus France
 - 2022, Research Scholarship Scheme, Universiti Tunku Abdul Rahman & Greatech Sdn. Bhd
 - 2022, UTAR Education Fund 100% Scholarship for PhD Students, Universiti Tunku Abdul Rahman
