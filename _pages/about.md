@@ -19,12 +19,13 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 I am excited about the practical application of AI techniques and models to solve real-world problems. Hence, most of my work is in Applied AI, where I focus on solving problems rather than developing fancy models. Based on my experience in competitions and research consultancy projects, feature engineering and data understanding are crucial for building a solid baseline before moving on to more advanced models. 
 
 - **Remote Sensing Image Interpretation**: Hyperspectral/Multimodal Remote Sensing, etc.
-- **Generative AI**: Diffusion Models, etc.
+- **Generative AI**: Diffusion Models, Diffusion Augmentation, etc.
 - **Computer Vision**: Object Detection/Instance Segmentation, etc.
 - **3D Computer Vision**: Point Cloud Detection, etc.
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
+<!--
 - **Deep Learning**: Vison-Language Models, Foundation Models, etc.
-
+-->
 
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
