@@ -27,6 +27,7 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 - **[2023.12]** Our Asean IVO Project is awarded Certificate of Excellence
 - **[2023.10]** Started my 3-month Research Attachment in Universite Sorbonne Paris Nord
 - **[2023.07]** Presented as Invited Speaker at London South Bank University
+- **[2023.03]** Presented our work in IEEE WCNC 2023, which is one of the Core Conference of IEEE ComSoc
 - **[2021.12]** Awarded Best Paper Presentation for IEEE UEMCON 2021 Session 13
 
 
