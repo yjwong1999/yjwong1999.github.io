@@ -23,9 +23,6 @@ I am excited about the practical application of AI techniques and models to solv
 - **Computer Vision**: Object Detection/Instance Segmentation, etc.
 - **3D Computer Vision**: Point Cloud Detection, etc.
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
-<!--
-- **Deep Learning**: Vison-Language Models, Foundation Models, etc.
--->
 
 # 🔥 News
 - **[2024.10]** Win the 1st prize in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
