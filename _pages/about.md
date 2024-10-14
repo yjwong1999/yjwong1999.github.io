@@ -81,7 +81,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 
-# 💬 Contests
+# 🏆 Contests
 - 🥇 Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
 - 🎖️ Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, and was invited for paper submission 👉 [[challenge link](https://orddc2024.sekilab.global/overview/)]
 - 🎖️ Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
