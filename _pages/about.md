@@ -68,7 +68,9 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
-The conference version of this paper is awarded [Best Paper Presentation](https://news.utar.edu.my/awards/2021/Dec/13/02/02.html) at IEEE UEMCON 2021, New York, USA!
+🤩 The conference version of this paper is awarded [Best Paper Presentation](https://news.utar.edu.my/awards/2021/Dec/13/02/02.html) at IEEE UEMCON 2021, New York, USA!
+
+🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO
 
 [[Paper](https://doi.org/10.1109/ACCESS.2022.3218655)] [[Multi-Head YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
@@ -83,7 +85,7 @@ The conference version of this paper is awarded [Best Paper Presentation](https:
 
 **Yi Jie Wong**, Yin-Loon Khor, Ziwei Liu
 
-Our solution ranked 8th among 11,000 registrants, and is one of the [Top 10 teams worldwide](https://news.utar.edu.my/awards/2024/May/17/01/01.html)!
+🏅 Our solution ranked 8th among 11,000 registrants, and is one of the [Top 10 teams worldwide](https://news.utar.edu.my/awards/2024/May/17/01/01.html)!
 
 [[Technical Report](https://double-y-ey-challenge-2024.github.io/)] [[EY Challenge\]](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024) ![img](https://img.shields.io/github/stars/Double-Y-EY-Challenge-2024/EY-challenge-2024?style=social)
 
@@ -117,7 +119,7 @@ Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, 
 
 Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
-2023 IEEE Wireless Communications and Networking Conference (WCNC), Core Conference of IEEE ComSoc
+🤩 2023 IEEE Wireless Communications and Networking Conference (WCNC), Core Conference of IEEE ComSoc
 
 [[Paper](https://doi.org/10.1109/WCNC55385.2023.10118891)] [[TTD3\]](https://github.com/yjwong1999/Twin-TD3) ![img](https://img.shields.io/github/stars/yjwong1999/Twin-TD3?style=social)
 
@@ -133,6 +135,8 @@ Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Ya
 **FedDdrl: Federated Double Deep Reinforcement Learning for Heterogeneous IoT with Adaptive Early Client Termination and Local Epoch Adjustment**
 
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Yasunori Owada
+
+🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO
 
 [[Paper](https://doi.org/10.3390/s23052494)]
 
