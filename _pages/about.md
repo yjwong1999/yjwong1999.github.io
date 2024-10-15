@@ -68,12 +68,12 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
-[[Multi-Task YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
+[[Paper](https://doi.org/10.1109/ACCESS.2022.3218655)] [[Multi-Head YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/IEEE Access Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE EAIS 2024</div><img src='images/EAIS Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -81,7 +81,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, Kok-Chin Khor
 
-[[Multi-Task YOLO\]](https://github.com/yinloonkhor/YOLOv8-multi-detection-head) ![img](https://img.shields.io/github/stars/yinloonkhor/YOLOv8-multi-detection-head?style=social)
+[[Paper](https://doi.org/10.1109/EAIS58494.2024.10570013)] [[Multi-Task YOLO\]](https://github.com/yinloonkhor/YOLOv8-multi-detection-head) ![img](https://img.shields.io/github/stars/yinloonkhor/YOLOv8-multi-detection-head?style=social)
 
 </div>
 </div>
