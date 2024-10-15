@@ -70,7 +70,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🤩 The conference version of this paper is awarded [Best Paper Presentation](https://news.utar.edu.my/awards/2021/Dec/13/02/02.html) at IEEE UEMCON 2021, New York, USA!
 
-🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO
+🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO!
 
 [[Paper](https://doi.org/10.1109/ACCESS.2022.3218655)] [[Multi-Head YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
@@ -136,7 +136,7 @@ Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Ya
 
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Yasunori Owada
 
-🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO
+🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO!
 
 [[Paper](https://doi.org/10.3390/s23052494)]
 
