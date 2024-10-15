@@ -58,6 +58,20 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 -->
 My full paper list can be found at [![](https://img.shields.io/badge/Google_Scholar-Yi_Jie_Wong-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rrm_FRQAAAAJ&hl=en)
 
+## Object Detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/E2E.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**
+**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
+
+
+[[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - 2023, Certificate of Excellence (Top 1 out of 17 international projects), ASEAN IVO
