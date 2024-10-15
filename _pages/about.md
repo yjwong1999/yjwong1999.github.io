@@ -73,6 +73,19 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/IEEE Access Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Multi-Task YOLO for Vehicle Colour Recognition and Automatic License Plate Recognition**
+
+Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, Kok-Chin Khor
+
+[[Multi-Task YOLO\]](https://github.com/yinloonkhor/YOLOv8-multi-detection-head) ![img](https://img.shields.io/github/stars/yinloonkhor/YOLOv8-multi-detection-head?style=social)
+
+</div>
+</div>
+
 ## Reinforcement Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCNC 2023</div><img src='images/WCNC2023.png' alt="sym" width="80%"></div></div>
