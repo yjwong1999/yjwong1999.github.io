@@ -60,7 +60,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 ## Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/E2E.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/IEEE Access Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
