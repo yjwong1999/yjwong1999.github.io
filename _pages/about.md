@@ -75,15 +75,27 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 ## Reinforcement Learning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCNC 2023</div><img src='images/WCNC2023.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces**</br>
+Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
+
+[[Paper](https://doi.org/10.1109/WCNC55385.2023.10118891)] [[TTD3\]](https://github.com/yjwong1999/Twin-TD3) ![img](https://img.shields.io/github/stars/yjwong1999/Twin-TD3?style=social)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI Sensors</div><img src='images/FedDdrl.webp' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**</br>
-**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
+**FedDdrl: Federated Double Deep Reinforcement Learning for Heterogeneous IoT with Adaptive Early Client Termination and Local Epoch Adjustment**</br>
+**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Yasunori Owada
 
 
-[[Multi-Task YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
+[[Paper](https://doi.org/10.3390/s23052494)]
 
 </div>
 </div>
