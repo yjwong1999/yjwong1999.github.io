@@ -68,10 +68,27 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
+The conference version of this paper is awarded [Best Paper Presentation](https://news.utar.edu.my/awards/2021/Dec/13/02/02.html) at IEEE UEMCON 2021, New York, USA!
+
 [[Paper](https://doi.org/10.1109/ACCESS.2022.3218655)] [[Multi-Head YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 EY Challenge</div><img src='images/EY Solution.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Post-Storm Event Assessment: Damaged Building Detection and Classification**
+
+**Yi Jie Wong**, Yin-Loon Khor
+
+[[Technical Report](https://double-y-ey-challenge-2024.github.io/)] [[EY Challenge\]](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024) ![img](https://img.shields.io/github/stars/Double-Y-EY-Challenge-2024/EY-challenge-2024?style=social)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE EAIS 2024</div><img src='images/EAIS Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,6 +102,8 @@ Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, 
 
 </div>
 </div>
+
+
 
 ## Reinforcement Learning
 
@@ -103,6 +122,8 @@ Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Ya
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI Sensors</div><img src='images/FedDdrl.webp' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,6 +136,8 @@ Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Ya
 
 </div>
 </div>
+
+
 
 # 🎖 Honors and Awards
 - 2023, Certificate of Excellence (Top 1 out of 17 international projects), ASEAN IVO
