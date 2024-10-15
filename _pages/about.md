@@ -81,7 +81,9 @@ The conference version of this paper is awarded [Best Paper Presentation](https:
 
 **Post-Storm Event Assessment: Damaged Building Detection and Classification**
 
-**Yi Jie Wong**, Yin-Loon Khor
+**Yi Jie Wong**, Yin-Loon Khor, Ziwei Liu
+
+Our solution ranked 8th among 11,000 registrants, and is one of the [Top 10 teams worldwide](https://news.utar.edu.my/awards/2024/May/17/01/01.html)!
 
 [[Technical Report](https://double-y-ey-challenge-2024.github.io/)] [[EY Challenge\]](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024) ![img](https://img.shields.io/github/stars/Double-Y-EY-Challenge-2024/EY-challenge-2024?style=social)
 
