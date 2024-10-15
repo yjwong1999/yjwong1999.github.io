@@ -68,7 +68,22 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
 
-[[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
+[[Multi-Task YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
+
+</div>
+</div>
+
+## Reinforcement Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDPI Sensors</div><img src='images/FedDdrl.webp' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**</br>
+**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
+
+
+[[Multi-Task YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
 </div>
 </div>
