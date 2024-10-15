@@ -21,7 +21,6 @@ I am excited about the practical application of AI techniques and models to solv
 - **Generative AI**: Diffusion Models, Diffusion Augmentation, etc.
 - **Computer Vision**: Object Detection/Instance Segmentation, etc.
 - **3D Computer Vision**: Point Cloud Detection, etc.
-- **Remote Sensing Image Interpretation**: Hyperspectral/Multimodal Remote Sensing, etc.
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
