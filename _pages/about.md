@@ -64,9 +64,9 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 <div class='paper-box-text' markdown="1">
 
 
-**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**</br>
-**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
+**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**
 
+**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
 [[Multi-Task YOLO\]](https://github.com/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model) ![img](https://img.shields.io/github/stars/yjwong1999/AL-based-FL-for-Multi-Task-Disaster-Detection-Model?style=social)
 
@@ -79,7 +79,8 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 <div class='paper-box-text' markdown="1">
 
 
-**Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces**</br>
+**Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces**
+
 Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
 [[Paper](https://doi.org/10.1109/WCNC55385.2023.10118891)] [[TTD3\]](https://github.com/yjwong1999/Twin-TD3) ![img](https://img.shields.io/github/stars/yjwong1999/Twin-TD3?style=social)
@@ -91,8 +92,11 @@ Mau-Luen Tham, **Yi Jie Wong**, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Ya
 <div class='paper-box-text' markdown="1">
 
 
-**FedDdrl: Federated Double Deep Reinforcement Learning for Heterogeneous IoT with Adaptive Early Client Termination and Local Epoch Adjustment**</br>
+**FedDdrl: Federated Double Deep Reinforcement Learning for Heterogeneous IoT with Adaptive Early Client Termination and Local Epoch Adjustment**
+
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Yasunori Owada
+
+2023 IEEE Wireless Communications and Networking Conference (WCNC), Core Conference of IEEE ComSoc
 
 
 [[Paper](https://doi.org/10.3390/s23052494)]
