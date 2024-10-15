@@ -64,7 +64,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 <div class='paper-box-text' markdown="1">
 
 
-**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**
+**An Optimized Multi-Task Learning Model for Disaster Classification and Victim Detection in Federated Learning Environments**</br>
 **Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada
 
 
