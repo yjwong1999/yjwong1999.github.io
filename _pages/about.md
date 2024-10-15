@@ -62,7 +62,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 ## Diffusion
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/IEEE Access Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/Segmentation Guided Diffusion.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -72,7 +72,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🥇 Our solution is the Top 1 solution in the IEEE BigData Cup 2024: Building Extraction Generalization Challenge!
 
-[[Paper](https://doi.org/10.1109/ACCESS.2022.3218655)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/RSGuidedDiffusion) ![img](https://img.shields.io/github/stars/yjwong1999/RSGuidedDiffusion?style=social)
+[[Paper](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/RSGuidedDiffusion) ![img](https://img.shields.io/github/stars/yjwong1999/RSGuidedDiffusion?style=social)
 
 </div>
 </div>
