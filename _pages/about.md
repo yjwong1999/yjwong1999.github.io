@@ -138,7 +138,7 @@ Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, 
 
 **Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces**
 
-Mau-Luen Tham, **Yi Jie Wong\***, Ban-Hoe Kwan, Ezra Morris Abraham Gnanamuthu, Yasunori Owada (\* co-first author)
+Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tasos Dagiuklas (\* co-first author)
 
 🤩 2023 IEEE Wireless Communications and Networking Conference (WCNC), Core Conference of IEEE ComSoc
 
