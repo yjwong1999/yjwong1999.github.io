@@ -191,7 +191,7 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 # 🏆 Contests
 - 🥇 Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
 - 🎖️ Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, and was invited for paper submission 👉 [[challenge link](https://orddc2024.sekilab.global/overview/)]
-- 🎖️ Top 10 Global Semi-Finalist of 2024 EY Open Data Science Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+- 🎖️ Top 10 Global Semi-Finalist of 2024 EY Open Science Data Challenge 👉 [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
 - 🌟 Global Finalist of 2022 Rohde & Schwarz Engineering Competition 👉 [[challenge link](https://codalab.lisn.upsaclay.fr/competitions/4142#learn_the_details)] & [[project_link](https://news.utar.edu.my/awards/2022/May/23/01/01.html#:~:text=Lee%20Kong%20Chian%20Faculty%20of%20Engineering%20%26%20Science,on%2024%20and%2025%20May%202022%20via%20online.)]
 
 
