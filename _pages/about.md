@@ -108,7 +108,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🏅 Our solution ranked 8th among 11,000 registrants, and is one of the [Top 10 teams worldwide](https://news.utar.edu.my/awards/2024/May/17/01/01.html)!
 
-[[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172963135.56918790/v1) [[Technical Report](https://double-y-ey-challenge-2024.github.io/)] [[EY Challenge\]](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024) ![img](https://img.shields.io/github/stars/Double-Y-EY-Challenge-2024/EY-challenge-2024?style=social)
+[[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172963135.56918790/v1)] [[Technical Report](https://double-y-ey-challenge-2024.github.io/)] [[EY Challenge\]](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024) ![img](https://img.shields.io/github/stars/Double-Y-EY-Challenge-2024/EY-challenge-2024?style=social)
 
 </div>
 </div>
