@@ -53,7 +53,7 @@ I am excited about the practical application of AI techniques and models to solv
 - *2017.05 - 2018.04*, Foundation in Science, Universiti Tunku Abdul Rahman, CGPA 4.00/4.00 (Top 1 in Kampar Campus)
 
 
-# 📝 Publications & Related Works
+# 📝 Publications
 <!--
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=rrm_FRQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
