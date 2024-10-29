@@ -93,7 +93,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🔥 The project will be deployed in our industrial partner in semiconductor sector (based in Penang, Malaysia).
 
-🔇 The details of the report and codebase will not be disclosed since we signed an NDA.
+<!-- 🔇 The details of the report and codebase will not be disclosed since we signed an NDA. -->
 
 </div>
 </div>
