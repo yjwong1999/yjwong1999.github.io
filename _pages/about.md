@@ -53,7 +53,7 @@ I am excited about the practical application of AI techniques and models to solv
 - *2017.05 - 2018.04*, Foundation in Science, Universiti Tunku Abdul Rahman, CGPA 4.00/4.00 (Top 1 in Kampar Campus)
 
 
-# 📝 Publications 
+# 📝 Publications & Related Works
 <!--
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=rrm_FRQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flikyoo%2Flikyoo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 -->
@@ -74,6 +74,24 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 🥇 Our solution is the Top 1 solution in the IEEE BigData Cup 2024: Building Extraction Generalization Challenge!
 
 [[Paper](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/RSGuidedDiffusion) ![img](https://img.shields.io/github/stars/yjwong1999/RSGuidedDiffusion?style=social)
+
+</div>
+</div>
+
+
+## Point Cloud Detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIMOS</div><img src='images/MIMOS flowchart.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Point Cloud Detection **
+
+**Yi Jie Wong**, Wingates Voon, Yan Chai Hum
+
+🤩 Unlike all existings scene-level augmentation technique, we designed a novel object-wise augmentation approach to mitigate the extreme class-imbalanced problem in the client dataset.
+
+🔥 The project will be deployed in our industrial partner in semiconductor sector (based in Penang, Malaysia).
 
 </div>
 </div>
