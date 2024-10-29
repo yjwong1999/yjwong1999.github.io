@@ -79,26 +79,6 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 </div>
 
 
-## Point Cloud Detection
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIMOS</div><img src='images/MIMOS flowchart.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Industrial 3D Object Detection for Multidimensional Quality Control**
-
-**Yi Jie Wong**, Wingates Voon, Yan Chai Hum
-
-🤩 Unlike all existings scene-level augmentation technique, we designed a novel object-wise augmentation approach to mitigate the extreme class-imbalanced problem in the client dataset.
-
-🔥 The project will be deployed in our industrial partner in semiconductor sector (based in Penang, Malaysia).
-
-<!-- 🔇 The details of the report and codebase will not be disclosed since we signed an NDA. -->
-
-</div>
-</div>
-
-
 
 ## Object Detection
 
@@ -181,6 +161,26 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 🔥 This paper is part of the [Best Project](https://news.utar.edu.my/awards/2023/December/22/03/03.html) out of 17 International Projects funded by ASEAN IVO!
 
 [[Paper](https://doi.org/10.3390/s23052494)]
+
+</div>
+</div>
+
+
+## Point Cloud Detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIMOS</div><img src='images/MIMOS flowchart.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Industrial 3D Object Detection for Multidimensional Quality Control**
+
+**Yi Jie Wong**, Wingates Voon, Yan Chai Hum
+
+🤩 Unlike all existings scene-level augmentation technique, we designed a novel object-wise augmentation approach to mitigate the extreme class-imbalanced problem in the client dataset.
+
+🔥 The project will be deployed in our industrial partner in semiconductor sector (based in Penang, Malaysia).
+
+<!-- 🔇 The details of the report and codebase will not be disclosed since we signed an NDA. -->
 
 </div>
 </div>
