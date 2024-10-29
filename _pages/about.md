@@ -25,12 +25,13 @@ I am excited about the practical application of AI techniques and models to solv
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
+- **[2024.10]** Our work is accpeted by IEEE BigData 2024 (**Top 6 in Data Mining Category** in [Google Scholar metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&venue=5qcbaE0D5owJ.2024&vq=eng_datamininganalysis))
 - **[2024.10]** Win the **1st prize** in IEEE Big Data Cup 2024 Building Extraction Generalization Challenge
 - **[2024.10]** Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge
 - **[2024.06]** Our work is accepted by Elsevier Internet of Things Journal (**Q1, IF=6.0**)
 - **[2024.05]** Top 10 Global Semi-Finalist of **2024 EY Open Science Data Challenge** out of 10,000 registrants
 - **[2023.12]** Our Asean IVO Project is awarded Certificate of Excellence (**Top 1** out of 17 international projects)
-- **[2023.11]** Completed my first Research Consultancy on 3D Point Cloud Detection for Semiconductor Defects at MIMOS Bhd (**Malaysia's leading national research center**)
+- **[2023.11]** Completed my first Research Consultancy at MIMOS Bhd (**Malaysia's leading national research center**)
 - **[2023.10]** Started my 3-month Research Attachment in Universite Sorbonne Paris Nord under **2023 Doctoral Research Mobility Program**
 - **[2023.07]** Presented as **Invited Speaker** at London South Bank University
 - **[2023.03]** Presented our work in **IEEE WCNC 2023**, which is one of the **Core Conference of IEEE ComSoc**
