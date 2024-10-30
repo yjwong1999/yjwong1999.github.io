@@ -133,6 +133,24 @@ Yin-Loon Khor, **Yi Jie Wong**, Mau-Luen Tham, Yoong Choon Chang, Ban-Hoe Kwan, 
 
 ## Reinforcement Learning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Elsevier IOT</div><img src='images/Elsevier IoT.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Addressing environmental stochasticity in reconfigurable intelligent surface aided unmanned aerial vehicle networks: Multi-task deep reinforcement learning based optimization for physical layer security**
+
+**Yi Jie Wong**, Mau-Luen Tham, Ban-Hoe Kwan, Amjad Iqbal
+
+🤔 Mixture-of-Experts to solve the one-shot generalization problem in UAV-RIS networks
+
+🤩 Accepted by Elsevier Internet of Things, **Q1, IF=6.0**
+
+[[Paper](https://doi.org/10.1016/j.iot.2024.101270)]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCNC 2023</div><img src='images/WCNC2023.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
