@@ -103,7 +103,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 <div class='paper-box-text' markdown="1">
 
 
-**Post-Storm Event Assessment: Damaged Building Detection and Classification**
+**Automating Coastal Vulnerability Assessment: AI-Driven Geospatial Analysis via Building Damage Detection**
 
 **Yi Jie Wong**, Yin-Loon Khor, Ziwei Liu
 
