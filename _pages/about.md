@@ -34,7 +34,7 @@ I am excited about the practical application of AI techniques and models to solv
 - **[2023.11]** Completed my first Research Consultancy at MIMOS Bhd (**Malaysia's leading national research center**)
 - **[2023.10]** Started my 3-month Research Attachment in Universite Sorbonne Paris Nord under **2023 Doctoral Research Mobility Program**
 - **[2023.07]** Presented as **Invited Speaker** at London South Bank University
-- **[2023.03]** Presented our work in **IEEE WCNC 2023**, which is one of the **Core Conference of IEEE ComSoc**
+- **[2023.03]** Presented our work in **IEEE WCNC 2023**, which is one of the **[Core Conferences](https://www.comsoc.org/conferences-events/portfolio-conferences-events) of IEEE ComSoc**
 - **[2021.12]** Awarded **Best Paper Presentation** for IEEE UEMCON 2021 Session 13
 
 
