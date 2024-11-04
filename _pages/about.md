@@ -15,6 +15,11 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 My latest CV can be found at this [Google Doc](https://docs.google.com/document/d/1aOfxLl_cDsX8bfhdI8a6QcaFtP3m4YoAaFsvYwCWE3o/edit?tab=t.0#heading=h.gjdgxs).
 
+<!--
+https://drive.google.com/file/d/1pDXTOr-0dYScGnifNjhHuwMz08DHl0hz/view?usp=sharing
+https://drive.google.com/file/d/1iND5nKvGxqGWV4EFyT8EhJKB0acqQSvF/view?usp=sharing
+-->
+
 # 🔍Research Topics
 
 I am excited about the practical application of AI techniques and models to solve real-world problems. Hence, most of my work is in Applied AI, where I focus on solving problems rather than developing fancy models. Based on my experience in competitions and research consultancy projects, feature engineering and data understanding are crucial for building a solid baseline before moving on to more advanced models. 
