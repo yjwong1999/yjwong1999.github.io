@@ -15,6 +15,28 @@ Yi Jie Wong (Graduate Student Member, IEEE) received the B.Eng. degree (Hons.) i
 
 My latest CV can be found at this [Google Doc](https://docs.google.com/document/d/1aOfxLl_cDsX8bfhdI8a6QcaFtP3m4YoAaFsvYwCWE3o/edit?tab=t.0#heading=h.gjdgxs).
 
+<!--
+
+# Assuming data_list is your input list
+group_size = 5
+groups_per_class = 4
+
+# Split data_list into groups of 5 strings
+groups = [data_list[i:i + group_size] for i in range(0, len(data_list), group_size)]
+
+# Split groups into classes of 4 groups each
+classes = [groups[i:i + groups_per_class] for i in range(0, len(groups), groups_per_class)]
+
+# Loop through each class and process the groups
+for class_group in classes:
+    for group in class_group:
+        first_string = group[0]  # Access the first string in the group
+        # Check conditions in the first string
+        if "AP_R40" in first_string and "0.50" in first_string and "0.75" not in first_string:
+            print(group)  # Print the group
+            break  # Skip to the next class
+-->
+
 # 🔍Research Topics
 
 I am excited about the practical application of AI techniques and models to solve real-world problems. Hence, most of my work is in Applied AI, where I focus on solving problems rather than developing fancy models. Based on my experience in competitions and research consultancy projects, feature engineering and data understanding are crucial for building a solid baseline before moving on to more advanced models. 
