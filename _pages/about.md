@@ -73,7 +73,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🥇 Our solution is the Top 1 solution in the IEEE BigData Cup 2024: Building Extraction Generalization Challenge!
 
-[[Paper](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/RSGuidedDiffusion) ![img](https://img.shields.io/github/stars/yjwong1999/RSGuidedDiffusion?style=social)
+[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[Technical Report](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/RSGuidedDiffusion) ![img](https://img.shields.io/github/stars/yjwong1999/RSGuidedDiffusion?style=social)
 
 </div>
 </div>
