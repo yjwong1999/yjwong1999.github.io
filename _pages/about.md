@@ -220,6 +220,7 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 - Elsevier Internet of Things
 - Elsevier Neurocomputing
 - IEEE Transactions on Artificial Intelligence (TAI)
+- International Joint Conference on Neural Networks (IJCNN 2025)
 - IEEE Access
 
 
