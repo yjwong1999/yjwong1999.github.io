@@ -25,7 +25,7 @@ I am excited about the practical application of AI techniques and models to solv
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
-- **[2025.04]** Our paper has been accepted by **IJCNN 2025**!
+- **[2025.04]** Our paper has been accepted by **IJCNN 2025** (one of the reputable AI conferences)!
 - **[2025.02]** Our team is **Top 3** in **IJCNN 2025** Drone-vs-Bird Detection Challenge
 - **[2025.02]** Presented a **Keynote speech** for **EMPOWER 2025**
 - **[2024.10]** Our work is accpeted by **IEEE BigData 2024** (**Top 6 in Data Mining & Analysis** in [Google Scholar metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&venue=5qcbaE0D5owJ.2024&vq=eng_datamininganalysis))
