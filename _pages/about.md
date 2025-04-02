@@ -95,7 +95,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 🥇 Our solution is the Top 3 solution in the IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Data Competition
 
-[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[Technical Report](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[IJCNN2025-DvB\]](https://github.com/yjwong1999/IJCNN2025-DvB) ![img](https://img.shields.io/github/stars/yjwong1999/IJCNN2025-DvB?style=social)
+[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[IJCNN2025-DvB\]](https://github.com/yjwong1999/IJCNN2025-DvB) ![img](https://img.shields.io/github/stars/yjwong1999/IJCNN2025-DvB?style=social)
 
 </div>
 </div>
