@@ -43,7 +43,7 @@ I am excited about the practical application of AI techniques and models to solv
 
 # 🧑‍🎓 Professional Experience
 - *2023.07 - Now*, AI Consultant (Technical Lead), MIMOS Bhd
-- *2022.07 - Now*, Graduate Research Assistant, Universiti Tunku Abdul Rahman
+- *2022.07 - Now*, Graduate Research Assistant (CV + GenAI), Universiti Tunku Abdul Rahman
 - *2023.10 - 2023.12*, Research Attachment, Universite Sorbonne Paris Nord
 - *2022.10 - 2023.09*, Research Member, UK-ASEAN SYRACUSE Project
 - *2021.07 - 2022.12*, Research Member, ASEAN-IVO Project
