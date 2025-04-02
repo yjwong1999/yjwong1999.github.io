@@ -85,6 +85,22 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 ## Object Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/IJCNN - WRN YOLO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**WRN-YOLO: An Improved YOLO for Drone Detection using Wide ResNet**
+
+**Yi Jie Wong**, Wingates Voon, Mau-Luen Tham, Ban-Hoe Kwan, Yoong Choon Chang, Yan Chai Hum
+
+🥇 Our solution is the Top 3 solution in the IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Data Competition
+
+[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[Technical Report](https://doubley-begc2024.github.io/static/pdfs/DoubleY%20Technical%20Report.pdf)] [[IJCNN2025-DvB\]](https://github.com/yjwong1999/IJCNN2025-DvB) ![img](https://img.shields.io/github/stars/yjwong1999/IJCNN2025-DvB?style=social)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/IEEE Access Multi-Task YOLO.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
