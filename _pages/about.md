@@ -25,7 +25,9 @@ I am excited about the practical application of AI techniques and models to solv
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
+- **[2025.04]** Our paper has been accepted by **IJCNN 2025**!
 - **[2025.02]** Our team is **Top 3** in **IJCNN 2025** Drone-vs-Bird Detection Challenge
+- **[2025.02]** Presented a Keynote speech for EMPOWER 2025
 - **[2024.10]** Our work is accpeted by **IEEE BigData 2024** (**Top 6 in Data Mining & Analysis** in [Google Scholar metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&venue=5qcbaE0D5owJ.2024&vq=eng_datamininganalysis))
 - **[2024.10]** Win the **1st prize** in **IEEE Big Data Cup 2024** Building Extraction Generalization Challenge
 - **[2024.10]** Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge
@@ -40,7 +42,7 @@ I am excited about the practical application of AI techniques and models to solv
 
 
 # 🧑‍🎓 Professional Experience
-- *2023.07 - Now*, Freelance AI Engineer, MIMOS Bhd
+- *2023.07 - Now*, AI Consultant (Technical Lead), MIMOS Bhd
 - *2022.07 - Now*, Graduate Research Assistant, Universiti Tunku Abdul Rahman
 - *2023.10 - 2023.12*, Research Attachment, Universite Sorbonne Paris Nord
 - *2022.10 - 2023.09*, Research Member, UK-ASEAN SYRACUSE Project
@@ -226,6 +228,7 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 
 
 # 💬 Invited Talks
+- 2025/02, (Keynote Speech @ EMPOWER 2025) Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 
