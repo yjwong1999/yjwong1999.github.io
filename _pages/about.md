@@ -244,7 +244,7 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 
 
 # 💬 Invited Talks
-- 2025/02, (Keynote Speech @ EMPOWER 2025) Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces 👉 [[website link](https://www.linkedin.com/posts/saravanansivasamy_i-am-thrilled-to-announce-the-successful-activity-7300682046509568000-tsnR)]
+- 2025/02, (Keynote Speech @ EMPOWER 2025) Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces 👉 [[website link](https://www.linkedin.com/posts/saravanansivasamy_i-am-thrilled-to-announce-the-successful-activity-7300682046509568000-tsnR)], [Certificate](images/EMPOWER 2025 Keynote - Wong Yi Jie certificate.png)
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 
