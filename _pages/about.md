@@ -89,13 +89,13 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 <div class='paper-box-text' markdown="1">
 
 
-**WRN-YOLO: An Improved YOLO for Drone Detection using Wide ResNet**
+**WRN-YOLO: An Improved YOLO for Drone Detection using Wide ResNet (accepted in IJCNN 2025)**
 
 **Yi Jie Wong**, Wingates Voon, Mau-Luen Tham, Ban-Hoe Kwan, Yoong Choon Chang, Yan Chai Hum
 
-🥇 Our solution is the Top 3 solution in the IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Data Competition
+🥇 Our solution is the Top 3 solution in the IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Data Competition (accepted in IJCNN)
 
-[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[IJCNN2025-DvB\]](https://github.com/yjwong1999/IJCNN2025-DvB) ![img](https://img.shields.io/github/stars/yjwong1999/IJCNN2025-DvB?style=social)
+[[IJCNN2025-DvB\]](https://github.com/yjwong1999/IJCNN2025-DvB) ![img](https://img.shields.io/github/stars/yjwong1999/IJCNN2025-DvB?style=social)
 
 </div>
 </div>
