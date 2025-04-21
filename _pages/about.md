@@ -258,4 +258,6 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 <!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54ythaxgje5&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 -->
+<!--
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=NX-A66u8nQ6Gh6wLrsPJDIDaTLjh7xIOHIRKH2NG3yQ'></script>
+-->
