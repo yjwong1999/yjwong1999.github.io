@@ -68,6 +68,22 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 ## Diffusion
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/Segmentation_Guided_Diffusion.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Tri-Axial Scaling in Aerial Object Detection: Model Size, Dataset Size and Quality, and Test-Time Inference in the CADOT Challenge**
+
+**Yi Jie Wong**, Jing Jie Tan, Mau-Luen Tham, Ban-Hoe Kwan, Yoong Choon Chang
+
+🥇 Our solution is the Top 1 solution in the IEEE BigData Cup 2024: Building Extraction Generalization Challenge!
+
+[[Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)] [[Technical Report](https://github.com/yjwong1999/Double_J_CADOT_Challenge/blob/62df466d9ccf2ccdd39ef44a34f34ff62b387fca/report/Tri-Axial%20Scaling%20In%20Aerial%20Object%20Detection%20Model%20Size%2C%20Dataset%20Size%20and%20Quality%2C%20and%20Test-Time%20Inference%20In%20the%20Cadot%20Challenge.pdf)] [[RSGuidedDiffusion\]](https://github.com/yjwong1999/Double_J_CADOT_Challenge) ![img](https://img.shields.io/github/stars/yjwong1999/Double_J_CADOT_Challenge?style=social)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/Segmentation Guided Diffusion.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,6 +98,8 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 </div>
 </div>
+
+
 
 
 
