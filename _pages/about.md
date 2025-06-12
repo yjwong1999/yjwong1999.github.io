@@ -25,7 +25,7 @@ I am excited about the practical application of AI techniques and models to solv
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
-- **[2025.06]** Our team is **Top 1** in **ICIP 2025** Challenge on Cityscape Aerial Image Dataset for Object Detection! (pending final evaluation)
+- **[2025.06]** Our team is **Top 1** in **ICIP 2025** Challenge on Cityscape Aerial Image Dataset for Object Detection!
 - **[2025.04]** Our paper has been accepted by **IJCNN 2025** (one of the reputable AI conferences)!
 - **[2025.02]** Our team is **Top 3** in **IJCNN 2025** Drone-vs-Bird Detection Challenge!
 - **[2025.02]** Presented a **Keynote speech** for **EMPOWER 2025**
@@ -251,7 +251,7 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 - 2023/07, UAS and NTN towards 6G, London South Bank University 👉 [[website link](https://www.eventbrite.com/e/uas-and-ntn-towards-6g-tickets-653956811427?aff=oddtdtcreator)]
 
 # 🏆 Contests
-- 🥇 Champion in Challenge on Cityscape Aerial Image Dataset for Object Detection @ ICIP 2025 (pending final evaluation) 👉 [[challenge link](https://cadot.onrender.com/)]
+- 🥇 Champion in Challenge on Cityscape Aerial Image Dataset for Object Detection @ ICIP 2025 👉 [[challenge link](https://cadot.onrender.com/)] & [[project_link](https://github.com/yjwong1999/Double_J_CADOT_Challenge)]
 - 🎖️ Top 3 in 2025 Drone-vs-Bird Detection Challenge @ IJCNN 2025
 - 🥇 Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, and received a USD 1000 prize 👉 [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
 - 🎖️ Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, and was invited for paper submission 👉 [[challenge link](https://orddc2024.sekilab.global/overview/)]
