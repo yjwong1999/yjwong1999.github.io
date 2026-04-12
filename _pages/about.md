@@ -19,10 +19,11 @@ My latest CV can be found at this [Google Doc](https://docs.google.com/document/
 
 I am excited about the practical application of AI techniques and models to solve real-world problems. Hence, most of my work is in Applied AI, where I focus on solving problems rather than developing fancy models. Based on my experience in competitions and research consultancy projects, feature engineering and data understanding are crucial for building a solid baseline before moving on to more advanced models. 
 
-- **Generative AI**: Diffusion Models, Diffusion Augmentation, etc.
+- **Multi Modal**: VLM, OCR, etc.
 - **Computer Vision**: Object Detection/Instance Segmentation, etc.
 - **3D Computer Vision**: Point Cloud Detection, etc.
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
+- **Generative AI**: Diffusion Models, Diffusion Augmentation, etc.
 
 # 🔥 News
 - **[2026.04]** Our paper has been accepted by **CVPRW 2026**!
@@ -77,7 +78,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 **EffiMiniVLM: A Compact Dual-Encoder Regression Framework**
 
-Yin-Loon Khor, **Yi-Jie Wong**, Yan Chai Hum
+Yin-Loon Khor, **Yi-Jie Wong \***, Yan Chai Hum (\* co-first author)
 
 🌟 Our solution is the Top 4 solution in the LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
 
