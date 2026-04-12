@@ -68,6 +68,22 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 My full paper list can be found at [![](https://img.shields.io/badge/Google_Scholar-Yi_Jie_Wong-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rrm_FRQAAAAJ&hl=en)
 
 
+## Multi-Modal VLM
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2026</div><img src='images/EffiMiniVLM Pipeline.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**
+
+Yin-Loon Khor, **Yi-Jie Wong**, Yan Chai Hum
+
+🌟 Our solution is the Top 4 solution in the LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
+
+[[Paper](https://arxiv.org/abs/2604.03172)] [[EffiMiniVLM\]](https://github.com/yinloonkhor/CVPR2026-EffiMiniVLM) ![img](https://img.shields.io/github/stars/yinloonkhor/EffiMiniVLM?style=social)
+
+</div>
+</div>
 
 ## Diffusion
 
