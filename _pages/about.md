@@ -25,6 +25,7 @@ I am excited about the practical application of AI techniques and models to solv
 - **Reinforcement Learning**: System Optimization, Multi-Agent Reinforcement Learning, etc.
 
 # 🔥 News
+- **[2025.06]** Our team is **Top 4** in **LoViF @ CVPR 2026** Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
 - **[2025.09]** Our [work](https://doi.org/10.1145/3765759) is accepted by ACM TOMM (**Q1, IF=6.0**)
 - **[2025.06]** Our team is **Top 1** in **ICIP 2025** Challenge on Cityscape Aerial Image Dataset for Object Detection!
 - **[2025.04]** Our paper has been accepted by **IJCNN 2025** (one of the reputable AI conferences)!
@@ -44,8 +45,9 @@ I am excited about the practical application of AI techniques and models to solv
 
 
 # 🧑‍🎓 Professional Experience
+- *2025.09 - Now*, Sub-Domain Lead (AI/Vision), Texas Instruments
 - *2025.06 - Now*, GenAI Technical Lead and Consultant, (1) Quandatics Sdn Bhd & (2) Promptiq Enterprise
-- *2023.07 - Now*, AI Consultant (Technical Lead), MIMOS Bhd
+- *2023.07 - 2025.09*, AI Consultant (Technical Lead), MIMOS Bhd
 - *2022.07 - 2025.05*, Graduate Research Assistant (CV + GenAI), Universiti Tunku Abdul Rahman
 - *2023.10 - 2023.12*, Research Attachment, Universite Sorbonne Paris Nord
 - *2022.10 - 2023.09*, Research Member, UK-ASEAN SYRACUSE Project
@@ -53,7 +55,7 @@ I am excited about the practical application of AI techniques and models to solv
 
 
 # 📖 Educations
-- *2022.07 - Now*, Ph.D in Digital Technology, Universiti Tunku Abdul Rahman, Supervised by Ir. Ts. Dr. Mau-Luen Tham & Dr. Ban-Hoe Kwan
+- *2022.07 - 2025.06*, Ph.D in Digital Technology, Universiti Tunku Abdul Rahman, Supervised by Ir. Ts. Dr. Mau-Luen Tham & Dr. Ban-Hoe Kwan
 - *2023.10 - 2023.12*, Visiting Ph.D Students, Universite Sorbonne Paris Nord, Supervised by Prof. Anissa Mokraoui
 - *2018.05 - 2022.05*, BEng in Biomedical Engineering (Major in AI), Universiti Tunku Abdul Rahman, CGPA 3.76/4.00 (First Class Honours, Awarded Book Prize)
 - *2017.05 - 2018.04*, Foundation in Science, Universiti Tunku Abdul Rahman, CGPA 4.00/4.00 (Top 1 in Kampar Campus)
