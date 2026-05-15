@@ -281,13 +281,16 @@ Mau-Luen Tham, **Yi Jie Wong\***, Amjad Iqbal, Nordin Bin Ramli, Yongxu Zhu, Tas
 
 
 # 💻 Reviewer
+- IEEE Transactions on Artificial Intelligence (TAI)
+- IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- International Joint Conference on Neural Networks (IJCNN 2025)
+- IEEE Access
 - Elsevier Pattern Recognition
 - Elsevier Neurocomputing
 - Elsevier Internet of Things
-- IEEE Transactions on Artificial Intelligence (TAI)
-- International Joint Conference on Neural Networks (IJCNN 2025)
-- IEEE Access
-
+- Elsevier Computer Networks
+- Elsevier Ad hoc Networks
 
 # 💬 Invited Talks
 - 2025/02, (Keynote Speech @ EMPOWER 2025) Deep Reinforcement Learning for Secrecy Energy-Efficient UAV Communication with Reconfigurable Intelligent Surfaces 👉 [[website link](https://www.linkedin.com/posts/saravanansivasamy_i-am-thrilled-to-announce-the-successful-activity-7300682046509568000-tsnR)], [[Certificate](images/EMPOWER 2025 Keynote - Wong Yi Jie certificate.png)]
