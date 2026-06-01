@@ -84,7 +84,7 @@ My full paper list can be found at [![](https://img.shields.io/badge/Google_Scho
 
 Yin-Loon Khor, **Yi-Jie Wong \***, Yan Chai Hum (\* co-first author)
 
-🌟 Our solution is the Top 4 solution in the LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
+🌟 Our solution is the Top 3 solution in the LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
 
 [[Paper](https://arxiv.org/abs/2604.03172)] [[EffiMiniVLM\]](https://github.com/yinloonkhor/CVPR2026-EffiMiniVLM) ![img](https://img.shields.io/github/stars/yinloonkhor/CVPR2026-EffiMiniVLM?style=social)
 
