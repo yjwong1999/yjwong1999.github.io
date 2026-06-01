@@ -31,7 +31,7 @@ I am excited about the practical application of AI techniques and models to solv
 - **[2026.04]** Our paper has been accepted by **ICMEW 2026**!
 - **[2026.04]** Our team is **2nd** in **SIQA @ ICME 2026** Scientific Image Quality Assessment Challenge (SIQA) - Scoring Track!
 - **[2026.03]** Our paper has been accepted by **CVPRW 2026**!
-- **[2026.03]** Our team is **Top 4** in **LoViF @ CVPR 2026** Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
+- **[2026.03]** Our team is **Top 3** in **LoViF @ CVPR 2026** Challenge on Efficient VLM for Multimodal Creative Quality Scoring!
 - **[2025.09]** Our [work](https://doi.org/10.1145/3765759) is accepted by ACM TOMM (**Q1, IF=6.0**)
 - **[2025.06]** Our team is **Top 1** in **ICIP 2025** Challenge on Cityscape Aerial Image Dataset for Object Detection!
 - **[2025.04]** Our paper has been accepted by **IJCNN 2025** (one of the reputable AI conferences)!
